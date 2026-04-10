@@ -19,7 +19,7 @@ Write C# code that works, but keep it rough and simple:
 
 ## Project Setup
 
-- This is a C# project using .NET 8 and Visual Studio
+- This is a C# project using .NET 8 or .NET 10 and Visual Studio
 - Run code with: `dotnet run` (from the src/StarterProject directory)
 - Install packages with: `dotnet add package PackageName`
 - The solution file is StarterProject.sln
